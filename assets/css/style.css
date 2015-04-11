@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=EB+Garamond);
+@import url(http://fonts.googleapis.com/css?family=Roboto+Slab);
 /**
  * Page styles
  */
@@ -3033,7 +3033,7 @@ body {
 .widget {
   margin-bottom: 30px;
   margin-bottom: 1.875rem;
-  background: #0f0f0f;
+  background: #4b3f57;
   padding: 0;
   border-bottom: solid #d7d7d7;
   border-bottom-width: 2px;
@@ -3059,8 +3059,8 @@ body {
   padding: 15px;
   padding: 0.9375rem;
   font-weight: normal;
-  color: #252525;
-  background: #ffffff;
+  color: #ffffff;
+  background: #4b3f57;
   text-align: center;
 }
 .widget-title a {
