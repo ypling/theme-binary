@@ -92,6 +92,13 @@
                     <span class="post-link-url"><i class="icon-share"></i> <a href="{{ post.url }}" target="_blank">{{ post.url }}</a></span>
                     {% endif %}
                   </div>
+                    {% if site.tags %}
+                    <ul class="tags">
+                        {% for tag in site.tags %}
+                        <li><a href="/tag/{{ tag.name }}">#{{ tag.name }}</a></li>
+                        {% endfor %}
+                    </ul>
+                    {% endif %}
                   {% if post.tags %}
                   <div class="post-tags">
                     {{- post.tags|format_tags(humanize=True) -}}
