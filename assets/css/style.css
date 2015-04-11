@@ -2369,7 +2369,7 @@ h5,
 h6 {
   margin: 8px 0;
   color: #636363;
-  font-family: 'EB Garamond', Georgia, Times, serif;
+  font-family: 'Roboto Slab', Georgia, Times, serif;
   line-height: 1.4;
   font-weight: normal;
 }
@@ -3033,7 +3033,7 @@ body {
 .widget {
   margin-bottom: 30px;
   margin-bottom: 1.875rem;
-  background: #4b3f57;
+  background: #ffffff;
   padding: 0;
   border-bottom: solid #d7d7d7;
   border-bottom-width: 2px;
