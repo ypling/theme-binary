@@ -2638,7 +2638,7 @@ body {
   margin-bottom: 1.875rem;
 }
 .site-header {
-  background: #ffffff;
+  background: #4b3f57;
   border-bottom: solid #d7d7d7;
   border-bottom-width: 2px;
   border-bottom-width: 0.125rem;
@@ -2654,7 +2654,7 @@ body {
   text-transform: uppercase;
 }
 .site-header .header-top h1 a {
-  color: #111111;
+  color: #ffffff;
 }
 .site-header .header-top h2 {
   padding-top: 5px;
